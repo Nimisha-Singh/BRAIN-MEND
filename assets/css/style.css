@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /**
 * Template Name: Mamba - v2.3.0
 * Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
@@ -23,7 +23,7 @@ header {
     --text: 'dark';
   }
 }
-=======
+
 /**
 * Template Name: Mamba - v2.3.0
 * Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
@@ -34,7 +34,7 @@ header {
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
->>>>>>> 1f514acc5449c0c89227cebdddd1d94637f35c9d
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
@@ -52,7 +52,6 @@ a:hover {
 h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Raleway", sans-serif;
 }
-<<<<<<< HEAD
 .boxedit {
   box-sizing: border-box;
   border-width: 10px;
@@ -91,7 +90,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .back-to-top:hover {
   color: #fff;
   background: #629fd3;
-<<<<<<< HEAD
   transition:  0.2s ease-in-out;
 }
 
@@ -144,7 +142,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   color: #428bca;
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Header
 =======
@@ -186,7 +183,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   max-height: 40px;
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Navigation Menu
 =======
@@ -399,7 +395,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   color: #fff;
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Hero Section
 =======
@@ -534,7 +529,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border: 0;
   background: #428bca;
 }
-<<<<<<< HEAD
 .bg-indigo-500 {
   --bg-opacity: 1;
   background-color: #051249;
@@ -562,12 +556,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 /* #hero .btn-get-started:hover {
   background: #1c5c93;
 } */
-=======
-
 #hero .btn-get-started:hover {
   background: #1c5c93;
 }
->>>>>>> 1f514acc5449c0c89227cebdddd1d94637f35c9d
 
 @media (max-width: 768px) {
   #hero h2 {
@@ -584,7 +575,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   }
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Sections General
 =======
@@ -616,7 +606,6 @@ section {
 .section-title p {
   margin-bottom: 0;
 }
-<<<<<<< HEAD
 .boxedit {
   box-sizing: border-box;
   border-width: 10px;
@@ -674,7 +663,6 @@ section {
   }
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # About Us
 =======
@@ -855,7 +843,6 @@ section {
   }
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # About Lists
 =======
@@ -905,7 +892,6 @@ section {
   }
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Counts
 =======
@@ -944,7 +930,6 @@ section {
   font-size: 14px;
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Services
 =======
@@ -1017,7 +1002,6 @@ section {
   font-size: 14px;
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Our Portfolio
 =======
@@ -1133,7 +1117,6 @@ section {
   transform: scale(1.1);
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Portfolio Details
 =======
@@ -1225,7 +1208,6 @@ section {
   }
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Our Team
 =======
@@ -1318,7 +1300,6 @@ section {
   }
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 =======
@@ -1342,7 +1323,6 @@ section {
   color: #1f3548;
 }
 
-<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Contact Us
 =======
