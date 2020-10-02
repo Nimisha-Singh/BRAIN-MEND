@@ -4,4 +4,8 @@ here I am psuedo pyschiatrist helping my friends, like how to deal with deressio
 Though I don't have an official degree but I am learning from other online platforms like Cousera.
 
 Please visit!
-https://nimisha-singh.github.io/BRAIN-MEND/#a4
+
+
+[![](https://img.shields.io/badge/VISIT%20-BRAINMEND-RED)]( https://nimisha-singh.github.io/BRAIN-MEND/#a4)
+
+LINK : https://nimisha-singh.github.io/BRAIN-MEND/#a4
