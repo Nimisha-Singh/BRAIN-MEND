@@ -8,4 +8,4 @@ Please visit!
 
 [![](https://img.shields.io/badge/VISIT%20-BRAINMEND-RED)]( https://nimisha-singh.github.io/BRAIN-MEND/#a4)
 
-LINK : https://nimisha-singh.github.io/BRAIN-MEND/#a4
+LINK : http://brainmend.ml/
